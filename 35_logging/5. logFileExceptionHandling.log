@@ -1,0 +1,5 @@
+2023-11-06 10:42:07,972 - Error Occurred: - root - ERROR
+Traceback (most recent call last):
+  File "C:\Users\nares\PycharmProjects\logging_method\5. logFileExceptionHandling.py", line 4, in <module>
+    print(sal)
+NameError: name 'sal' is not defined
