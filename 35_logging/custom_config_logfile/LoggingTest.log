@@ -1,0 +1,3 @@
+2023-11-06 14:37:53,784 - root - ERROR - Log started on this line from module-__main__
+2023-11-06 14:37:59,697 - customLogger - INFO - add num function is called from module-add
+2023-11-06 14:37:59,697 - root - ERROR - Log ended on this line from module-__main__
